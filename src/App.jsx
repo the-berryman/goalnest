@@ -40,7 +40,7 @@ const GoalNestApp = () => {
                 </div>
                 <div className="p-4 bg-white rounded-xl shadow">
                     <h3 className="text-sm text-gray-600">Active Goals</h3>
-                    <p className="text-2xl font-bold">2,405</p>
+                    <p className="text-2xl font-bold">$2,405</p>
                     <p className="text-sm text-green-500">+33% month over month</p>
                 </div>
             </div>
