@@ -61,17 +61,31 @@ const GoalNestApp = () => {
                 <h3 className="text-sm text-gray-600 mb-2">Team Members</h3>
                 <div className="space-y-4">
                     <div className="flex items-center gap-3">
-                        <div className="w-10 h-10 rounded-full bg-gray-200" />
+                        <div className="w-10 h-10 rounded-full bg-gray-200"/>
                         <div>
-                            <p className="font-medium">Elynn Lee</p>
-                            <p className="text-sm text-gray-500">email@fakedomain.net</p>
+                            <p className="font-medium">Gavin Berryman</p>
+                            <p className="text-sm text-gray-500">gavinberryman@gmail.com</p>
                         </div>
                     </div>
                     <div className="flex items-center gap-3">
-                        <div className="w-10 h-10 rounded-full bg-gray-200" />
+                        <div className="w-10 h-10 rounded-full bg-gray-200"/>
                         <div>
-                            <p className="font-medium">Oscar Dum</p>
-                            <p className="text-sm text-gray-500">email@fakedomain.net</p>
+                            <p className="font-medium">Reshanna Jangroo</p>
+                            <p className="text-sm text-gray-500">reshanna@fakedomain.net</p>
+                        </div>
+                    </div>
+                    <div className="flex items-center gap-3">
+                        <div className="w-10 h-10 rounded-full bg-gray-200"/>
+                        <div>
+                            <p className="font-medium">Luis Perez</p>
+                            <p className="text-sm text-gray-500">luis@git a.com</p>
+                        </div>
+                    </div>
+                    <div className="flex items-center gap-3">
+                        <div className="w-10 h-10 rounded-full bg-gray-200"/>
+                        <div>
+                            <p className="font-medium">Aasiyah Alli</p>
+                            <p className="text-sm text-gray-500">Aasiyah@fakedomain.net</p>
                         </div>
                     </div>
                 </div>
