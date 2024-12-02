@@ -78,7 +78,7 @@ const GoalNestApp = () => {
                         <div className="w-10 h-10 rounded-full bg-gray-200"/>
                         <div>
                             <p className="font-medium">Luis Perez</p>
-                            <p className="text-sm text-gray-500">luis@git a.com</p>
+                            <p className="text-sm text-gray-500">luis@gmail.com</p>
                         </div>
                     </div>
                     <div className="flex items-center gap-3">
