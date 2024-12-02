@@ -169,12 +169,12 @@ const GoalNestApp = () => {
     };
 
     return (
-        <div className="max-w-md mx-auto h-screen bg-gray-50 flex flex-col">
-            <div className="flex-1 overflow-y-auto">
+        <div className="max-w-md mx-auto h-screen bg-gray-50 overflow-hidden flex flex-col">
+            <div className="flex-1 overflow-y-auto pb-16">
                 {pages[currentPage]}
             </div>
 
-            <div className="bg-white border-t p-4">
+            <div className="bg-white border-t p-4 fixed bottom-0 w-full max-w-md">
                 <div className="flex justify-between items-center">
                     <button
                         onClick={() => setCurrentPage('dashboard')}
